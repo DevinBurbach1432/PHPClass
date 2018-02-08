@@ -16,7 +16,7 @@
     </nav>
     <main>
         <img src="img/devin.png" alt="picture of devin">
-        <p>efrigu nlaiegru ldfjnzldkfjbgaoli grub lknfv laeirugblzdkfjv leiarblzdkjfgb lriguzldkfng lerjgzdkfnv lerildj gleir lglzdkfng liejrg lkdnfvldkxfjbg lfvzldkfnv alerjvldkfnv ldfjv ldkjfvdlfj dlfkjv ldfkj lkdjv ldzkjfvn,skjrvblifbv lzdkfvldfkjvbz lkjdfbv lkdjfvb ldv b</p>
+        <p>My name is Devin Burbach and this is my php class home page.</p>
     </main>
     <footer>&copy; 20xx DevinBurbach.com</footer>
 </body>
